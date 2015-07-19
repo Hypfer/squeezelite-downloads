@@ -1,0 +1,1 @@
+Companion project to Squeezelite.
